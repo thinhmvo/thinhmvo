@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning **React and AWS**
 
-- 💬 Ask me about **Java, PostgreSQL, JavaScript, VueJS**
+- 💬 Ask me about **Java, PostgreSQL, JavaScript, VueJS** 
 
 - 📫 How to reach me **thinhmvo101@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16UjG7bC-eBAlu36o3E04vzj9OdvSC3VM/view?usp=sharing](https://drive.google.com/file/d/16UjG7bC-eBAlu36o3E04vzj9OdvSC3VM/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://tinyurl.com/tmvoresume)
 
 - ⚡ Fun fact **I love spending time talking about technology and/or history!**
 
