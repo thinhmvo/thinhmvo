@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm Thinh "Mike" Vo</h1>
-<h3 align="center">I am a technologist and programmer at heart, deeply enthusiastic about integrating cutting-edge technology and coding into my study and appreciation of history.</h3>
+<h3 align="center">I love history and technology; continuous learning and improvement are my lifelong goals</h3>
 
 - 🌱 I’m currently learning **React and AWS**
 
