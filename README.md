@@ -1,4 +1,3 @@
-<a href="https://ibb.co/TgTNWN0"><img align="center" src="https://i.ibb.co/87BQYQx/DALL-E-2023-11-23-22-54-27-A-balanced-landscape-banner-showcasing-history-books-and-programming-tech.png" alt="DALL-E-2023-11-23-22-54-27-A-balanced-landscape-banner-showcasing-history-books-and-programming-tech" border="0"></a>
 <h1 >Hi 👋, I'm Thinh "Mike" Vo</h1>
 <h3 align="center">I am a technologist and programmer at heart, deeply enthusiastic about integrating cutting-edge technology and coding into my study and appreciation of history.</h3>
 
